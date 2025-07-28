@@ -6,7 +6,7 @@ key risk factors, and retention opportunities.
 ## 📁 Project Overview
 
 - **Tool Used**: Power BI
-- **Data Sources**: 3 tables - `Services`, `Status`, `Customers` (bridge created using DAX)
+- **Data Sources**: 5 tables - `Demographics`, `Location`, `Population`, `Services`, `Status`, `Customers` (bridge created using DAX)
 - **Objective**: To visualize and identify churn trends, customer segments, and relationships between satisfaction, tenure, and CLTV.
 
 ## 📌 Key Features
