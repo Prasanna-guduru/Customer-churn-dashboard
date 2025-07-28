@@ -11,7 +11,7 @@ key risk factors, and retention opportunities.
 
 ## 📌 Key Features
 
-### ✅ Page 1: Overall Churn Summary
+### 📈 Page 1: Overall Churn Summary
 
 - **KPI Cards**:
   - Total Customers
